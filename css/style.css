@@ -4,7 +4,7 @@ html {
 }
 body {
   overflow: hidden;
-  background: url('./folder/tiger7.png') no-repeat;
+  background: url('../folder/tiger7.png') no-repeat;
   background-size: cover;
 }
 
